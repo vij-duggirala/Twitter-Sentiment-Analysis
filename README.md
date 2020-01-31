@@ -7,6 +7,7 @@ Problem Statement:
 My Approach:
 	This was my first experience with any sort of Machine Learning Project. 
 	So, after referring through a lot of medium blogs and tutorials, I got a rough idea as to what to do.
+
 	1. Collect tweets about the given topic
 		This required a developer account and corresponding tokens and keys. Using Twitter's restful API, this was easily done.
 	
